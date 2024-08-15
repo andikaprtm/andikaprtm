@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+Perkenalkan saya Andika Pratama Putra <br>
+Saya seorang programmer junior <br>
+Saya sedang mengikuti bootcamp Dicoding
 <!--
 **andikaprtm/andikaprtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
